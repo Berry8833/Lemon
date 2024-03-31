@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: darkviolet;
+    background-color: aquamarine;
+}
+p {
+    color: rgb(29, 29, 29);
+    background-color: rgb(246, 127, 255);
+}
+footer h2 {
+    color: green;
+    background-color: blanchedalmond;
+}
